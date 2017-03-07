@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         TextView tv = (TextView) findViewById(R.id.tv);
         ImageView iv = (ImageView) findViewById(R.id.iv);
+		//这是一次提交
 
     }
 }

@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = (TextView) findViewById(R.id.tv);
         ImageView iv = (ImageView) findViewById(R.id.iv);
 		//这是一次提交
+		//这又是一次提交
 
     }
 }
